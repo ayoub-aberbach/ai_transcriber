@@ -5,7 +5,7 @@ A simple REST API that transcribes audio files using AI-powered Speech-to-Text t
 ## Installation
 
 ### 1. Set Up Environment Variables
-Create a `.env` file in the project root and add your GROQ API key:
+Create a `.env` file in the project root and add your GROQ API key from here https://console.groq.com/playground:
 ```
 GROQ_API_KEY=your_api_key_here
 ```
