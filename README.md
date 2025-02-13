@@ -14,9 +14,14 @@ GROQ_API_KEY=your_api_key_here
 Run the following commands in the project folder:
 ```sh
 py -m venv venv
+```
+```sh
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```
+```sh
 pip install -r requirements.txt
 ```
+
 
 ### 3. Start the Server
 Run the following command to start the FastAPI server:
