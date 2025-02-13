@@ -32,8 +32,8 @@ uvicorn main:app --reload
 ## Project Structure
 ```
 project-folder/
+│── uploads/              # Directory for storing audio files
 │── main.py               # Main FastAPI application
 │── .env                  # API keys and environment variables
-│── uploads/              # Directory for storing audio files
-│── requirements.txt       # Python dependencies
+│── requirements.txt      # Python dependencies
 ```
